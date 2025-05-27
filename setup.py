@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="test_forestry",
-    version="0.1.1",
+    version="0.1.2",
     description="",
     author="Evgenii Kuriabov",
     author_email="evgenii@example.com",
