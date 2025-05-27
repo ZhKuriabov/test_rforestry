@@ -20,7 +20,7 @@ from pydantic import (  # pylint: disable=no-name-in-module
 )
 from pydantic.dataclasses import dataclass
 
-from . import extension, preprocessing  # type: ignore
+# from . import extension, preprocessing  # type: ignore
 from .processed_dta import ProcessedDta
 from .validators.fit_validator import FitValidator
 from .validators.predict_validator import PredictValidator
